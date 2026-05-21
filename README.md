@@ -31,4 +31,4 @@ Durban, South Africa
 
 ## 🔗 GitHub Profile
 
-https://github.com/Chinokeys2003
+https://github.com/Chinokeys
